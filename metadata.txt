@@ -1,0 +1,26 @@
+[general]
+name=RiverBankErosionAndAccretion
+qgisMinimumVersion=3.0
+description=This plugin calculates the erosion and accretion along a river's course.
+version=0.1
+author=Srija Roy
+email=roysrija7@gmail.com
+
+about=This plugin is designed to calculate erosion and accretion along a river's course by analyzing spatial data over time. It allows users to quantify changes in the river's shape, helping in understanding the dynamics of river morphology. The results can be used for environmental monitoring, river management, and assessing the impact of natural and human activities on riverbanks.
+
+tracker=https://github.com/srijaroy/RiverBankErosionAccretion/issues
+repository=https://github.com/srijaroy/RiverBankErosionAccretion.git
+
+hasProcessingProvider=no
+
+# Tags are comma separated with spaces allowed
+tags=erosion, accretion, riverbank, morphology, river, gis, qgis, spatial, environment
+
+homepage=https://github.com/srijaroy/RiverBankErosionAccretion
+category=Raster
+
+experimental=False
+deprecated=False
+server=False
+
+changelog=Initial release of RiverBankErosionAndAccretion plugin. Calculates erosion and accretion along riverbanks using spatial data.
